@@ -1,4 +1,4 @@
-name 'xvfb'
+name 'cwarden-xvfb'
 version '0.0.1'
 source 'git@github.com:cwarden/puppet-module-xvfb.git'
 author 'Eivind Uggedal'
