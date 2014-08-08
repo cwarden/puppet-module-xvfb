@@ -1,0 +1,8 @@
+name 'cwarden-xvfb'
+version '0.0.1'
+source 'git@github.com:cwarden/puppet-module-xvfb.git'
+author 'Eivind Uggedal'
+license 'MIT'
+summary 'Module for configuring xvfb'
+description 'Module for configuring xvf'
+project_page 'https://github.com/cwarden/puppet-module-xvf'
